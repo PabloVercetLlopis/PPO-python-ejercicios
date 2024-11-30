@@ -1,0 +1,5 @@
+Crea una clase llamada Radioactivos que herede de Metales y así herede todos los atributos de la clase Metales. Además, tendrá el atributo propios radioactividad
+(por defecto a True)
+Crea el constructor de la clase. Añadir en el constructor un print para informar de que el átomo se ha creado con éxito
+Sobrescribe el método string (str), para que al imprimir por pantalla se vea su información
+Crear un método llamado ver_radioactividad que muestre si el átomo tiene o no radioactividad
