@@ -9,7 +9,7 @@ Este repositorio contiene ejercicios prácticos para aprender Programación Orie
    - [Código fuente](src/producto.py) | [Pruebas](tests/test_producto.py)
 
 2. **Clase Atomos y Derivadas:**
-   - Representa átomos y extensiones como semimetales, metales y radioactivos.
+   - Representa átomos y extensiones como semimetales, metales, radioactivos y no radioactivos.
    - Utiliza herencia y personalización de métodos.
    - [Código fuente](src/atomos.py) | [Pruebas](tests/test_atomos.py)
 
