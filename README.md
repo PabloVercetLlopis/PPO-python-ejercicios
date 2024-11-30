@@ -14,9 +14,24 @@ Este repositorio contiene ejercicios prácticos para aprender Programación Orie
    - [Código fuente](src/atomos.py) | [Pruebas](tests/test_atomos.py)
 
 ## Estructura del repositorio
-  - Código del modelo SVM
-- **`Licencia`**: Licencia del proyecto.  
-- **`README.md`**: Introducción y guía del proyecto.
+ PPO-pyhton-ejercicios/
+ - **`Código fuente`**:   # Código utilizado
+ - **`Instructions`**: # Instrucciones de cada ejercicio
+   - **`ejercicio_Atomos`**
+   - **`ejercicio_Metales`**
+   - **`ejercicio_NoRadioactivos`**
+   - **`ejercicio_Producto`**
+   - **`ejercicio_Radioactivo`**
+   - **`ejercicio_Semimetales`**
+    - **`Results`**:
+      - **`Resultados`**
+   - **`Atomos.py`**
+   - **`Metales.py`**
+   - **`NoRadioactivos.py`**
+   - **`Producto.py`**
+   - **`Radioactivo.py`**
+   - **`Semimetales.py`**
+- **`README.md`**:  # Introducción y guía del proyecto.
 
 PPO-python-ejercicios/
 ├── README.md              # Explicación general del proyecto
