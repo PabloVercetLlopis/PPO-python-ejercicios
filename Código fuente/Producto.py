@@ -1,15 +1,10 @@
-Esta carpeta contiene todo el **código fuente** organizado por funcionalidad.
-
-1. **`producto.py`:**
-   Contiene la implementación de la clase `Producto`.
-   ```python
-   class Producto:
-       def __init__(self, codigo, nombre, precio, tipo):
-           self.codigo = codigo
-           self.nombre = nombre
-           self.precio = precio
-           self.tipo = tipo
-           print(f"Producto creado correctamente.")
+class Producto:
+   def __init__(self, codigo, nombre, precio, tipo):
+         self.codigo = codigo
+         self.nombre = nombre
+         self.precio = precio
+         self.tipo = tipo
+         print(f"Producto creado correctamente.")
          
   @property
     def codigo(self):
@@ -48,6 +43,3 @@ Esta carpeta contiene todo el **código fuente** organizado por funcionalidad.
 
     def calcular_total(self, unidades):
       return self.__precio*unidades
-      
-```
-      
