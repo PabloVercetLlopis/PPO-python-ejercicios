@@ -1,4 +1,3 @@
-```
 class Metales(Atomos):  
   def __init__(self, símbolo, nombre, electrones, número_atómico, ultima_capa, conductor):
     super().__init__(símbolo, nombre, electrones, número_atómico)
@@ -33,4 +32,3 @@ class Metales(Atomos):
       print("Este metal tiene propiedades magnéticas")
     else:
       print("Este metal NO tiene propiedades magnéticas")
-```
