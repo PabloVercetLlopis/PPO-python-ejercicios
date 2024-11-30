@@ -1,8 +1,0 @@
-Crea una clase llamada Semimetales que herede de Atomos y así herede todos los atributos de la clase Atomos. Además, tendrá los atributos propios: energía y
-conductor (por defecto a False)
-Crea el constructor de la clase. Añadir en el constructor un print para informar de que el átomo se ha creado con éxito
-Sobrescribe el método string (str), para que al imprimir por pantalla se vea su información
-Crear un método llamado encender_radiacion que reciba un parámetro llamado energia_radiacion. El objetivo de este método es dar valor al atributo conductor, se asignará un valor True en el
-caso de que energia_radiacion sea mayor que la energía del semimetal, y False en caso contrario
-Crear un método llamado apagar_radiacion que asigne False al atributo conductor del semimetal
-Crear un método llamado ver_carga que muestre la carga total del átomo (electrones - número atómico)
