@@ -1,4 +1,3 @@
-´´´ 
 class Atomos:
  
   def __init__(self, símbolo, nombre, electrones, número_atómico):
@@ -22,4 +21,3 @@ class Atomos:
   def ver_carga(self):
     self.__ver_carga = int(self.__electrones - self.__número_atómico)
       return "Ver carga: {}".format(self.__ver_carga)
-```
