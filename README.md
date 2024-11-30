@@ -13,6 +13,26 @@ Este repositorio contiene ejercicios prácticos para aprender Programación Orie
    - Utiliza herencia y personalización de métodos.
    - [Código fuente](src/atomos.py) | [Pruebas](tests/test_atomos.py)
 
+## Estructura del repositorio
+  - Código del modelo SVM
+- **`Licencia`**: Licencia del proyecto.  
+- **`README.md`**: Introducción y guía del proyecto.
+
+PPO-python-ejercicios/
+├── README.md              # Explicación general del proyecto
+├── instructions/          # Instrucciones de cada ejercicio
+│   ├── ejercicio_Producto   # Enunciado del ejercicio Producto
+│   ├── ejercicio_Atomos   # Enunciado del ejercicio Atomos
+│   ├── ejercicio_Semimetales     # Enunciado del ejercicio Semimetales
+│   ├── ejercicio_Metales     # Enunciado del ejercicio Metales
+│   ├── ejercicio_Radioactivos     # Enunciado del ejercicio Radioactivos
+│   ├── ejercicio_NoRadioactivos     # Enunciado del ejercicio NoRadioactivos
+├── src/                   # Código fuente
+│   ├── producto.py        # Implementación de la clase Producto
+│   ├── atomos.py          # Implementación de Atomos y derivadas
+│   ├── main.py            # Script principal para probar el código
+
+
 ## Cómo ejecutar
 1. Clona este repositorio:
    ```bash
