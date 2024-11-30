@@ -14,24 +14,25 @@ Este repositorio contiene ejercicios prácticos para aprender Programación Orie
    - [Código fuente](src/atomos.py) | [Pruebas](tests/test_atomos.py)
 
 ## Estructura del repositorio
- PPO-pyhton-ejercicios/
- - **`Código fuente`**:   # Código utilizado
- - **`Instructions`**: # Instrucciones de cada ejercicio
-   - **`ejercicio_Atomos`**
-   - **`ejercicio_Metales`**
-   - **`ejercicio_NoRadioactivos`**
-   - **`ejercicio_Producto`**
-   - **`ejercicio_Radioactivo`**
-   - **`ejercicio_Semimetales`**
-    - **`Results`**:
-      - **`Resultados`**
+PPO-pyhton-ejercicios/
+- **`Código fuente`**:      # Código utilizado
    - **`Atomos.py`**
    - **`Metales.py`**
    - **`NoRadioactivos.py`**
    - **`Producto.py`**
    - **`Radioactivo.py`**
    - **`Semimetales.py`**
-- **`README.md`**:  # Introducción y guía del proyecto.
+   - **`main.py`**:      # Script principal para probar el codigo 
+- **`Instrucciones`**:      # Instrucciones de cada ejercicio
+   - **`ejercicio_Atomos`**
+   - **`ejercicio_Metales`**
+   - **`ejercicio_NoRadioactivos`**
+   - **`ejercicio_Producto`**
+   - **`ejercicio_Radioactivo`**
+   - **`ejercicio_Semimetales`**
+- **`Results`**:      # Resultados del proyecto
+   - **`Resultados`**
+- **`README.md`**:      # Explicación general.
 
 PPO-python-ejercicios/
 ├── README.md              # Explicación general del proyecto
