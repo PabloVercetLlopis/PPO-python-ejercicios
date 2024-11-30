@@ -1,7 +1,0 @@
-2) Realizar la siguiente estructura de clases y testear su funcionamiento:
-Crea una clase llamada Atomos que tenga los atributos símbolo, nombre, electrones y numero_atomico
-Crea el constructor de la clase. Añadir en el constructor un print para informar de que el átomo se ha creado con éxito 
-Sobrescribe el método string (str), para que al imprimir por pantalla se vea su información
-Crear un método llamado perder_electron que reste en 1 los electrones del átomo
-Crear un método llamado ganar_electron que sume en 1 los electrones del átomo
-Crear un método llamado ver_carga que muestre la carga total del átomo (electrones - número atomico)
