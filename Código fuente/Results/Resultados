@@ -1,0 +1,83 @@
+# Clase Producto
+Producto creado correctamente
+Codigo: TH43K
+Nombre: Televisión
+Precio: 799$
+Tipo: Plasma
+========================================
+El precio total para 5 unidades de Televisión es de:3995
+
+# Clase Atomos
+El átomo se ha creado correctamente
+Simbolo: Mg
+Nombre: Magnesio
+Electrones: 12
+Número atómico: 12
+========================================
+Simbolo: Mg
+Nombre: Magnesio
+Electrones: 11
+Número atómico: 12
+========================================
+Simbolo: Mg
+Nombre: Magnesio
+Electrones: 12
+Número atómico: 12
+========================================
+Ver carga: 0
+
+# Clase Semimetales
+El átomo se ha creado correctamente
+Se ha creado con éxito el Semimetal
+Simbolo: Pb
+Nombre: Plomo
+Electrones: 82
+Número atómico: 82
+Energia de ionización: 715
+Conductor: FALSE
+========================================
+La radiación se ha encendido porque la energia de radiacion es mayor
+========================================
+El conductor se ha apagado y es: False
+========================================
+La carga es: <bound method Atomos.ver_carga of <__main__.Semimetales object at 0x000001A447B57050>>
+
+# Clase Metales
+El átomo se ha creado correctamente
+Se ha creado correctamente el Metal
+Simbolo: Al
+Nombre: Aluminio
+Electrones: 13
+Número atómico: 13
+Ultima capa: p
+Conductor: TRUE
+========================================
+Este metal tiene propiedades magnéticas
+
+# Clase Radioactivos
+El átomo se ha creado correctamente
+Se ha creado correctamente el Metal
+Se ha creado correctamente el radioactivo
+Simbolo: U
+Nombre: Uranio
+Electrones: 92
+Número atómico: 92
+Ultima capa: f
+Conductor: FALSE
+Radioactividad: True
+========================================
+El átomo tiene radioactividad
+
+# Clase NoRadioactivos
+El átomo se ha creado correctamente
+Se ha creado correctamente el Metal
+Se ha creado correctamente el NO radioactivo
+Simbolo: C
+Nombre: Carbono
+Electrones: 6
+Número atómico: 6
+Ultima capa: p
+Conductor: TRUE
+NO Radioactividad: False
+========================================
+El átomo NO tiene radioactividad
