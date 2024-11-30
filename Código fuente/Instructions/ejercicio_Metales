@@ -1,6 +1,0 @@
-Crea una clase llamada Metales que herede de Atomos y así herede todos los atributos de la clase Atomos. Además, tendrá los atributos propios: ultima_capa y
-conductor (por defecto a True)
-Crea el constructor de la clase. Añadir en el constructor un print para informar de que el átomo se ha creado con éxito
-Sobrescribe el método string (str), para que al imprimir por pantalla se vea su información
-Crear un método llamado magnetismo que muestre con un print si este átomo tiene propiedades magnéticas o no. Esto lo evaluará en función de si la última capa del átomo metálico es una 'd' o
-una 'f'
